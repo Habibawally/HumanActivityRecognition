@@ -21,7 +21,8 @@ This project focuses on recognizing human physical activities using machine lear
 
 ## 📊 Dataset
 
-> (Add a short description of the dataset used, e.g., source, number of activities, format...)
+>📁 Dataset used: `dataset/UCI(Dataset)` (from UCI Human Activity Recognition Dataset)
+
 
 ## 🚀 How to Run
 
